@@ -1,10 +1,10 @@
-- 🧚🏾‍♀️Hi, I’m Ruvimbo aka Rue/Lulu. 
-- 🧚🏾‍♀️I’m interested in Tech. 
-- 🦦I’m currently learning AI Machine Learning. 
-- 🦦I’m looking to collaborate on projects.
-- 📫 For enquiries: ruemachekano@gmail.com
-                🧚🏾‍♀️or linkedIn @Ruvimbo E. Machekano.
-
+---🧚🏾‍♀️ Hey there! I’m Ruvimbo, but you can call me Rue or Lulu!  
+- 🧚🏾‍♀️ A tech and gaming enthusiast on a magical journey.  
+- 🦦 Currently diving into the enchanting world of AI and Machine Learning.  
+- 🤗 Always eager to collaborate on exciting projects!  
+- 📫 Feel free to reach out [ruemachekano@gmail.com](mailto:ruemachekano@gmail.com) or connect with me on LinkedIn @Ruvimbo E. Machekano.
+- <♡👩🏾‍💻/>
+___
 
 <!---
 ruerue01/ruerue01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
